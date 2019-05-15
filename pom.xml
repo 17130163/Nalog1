@@ -55,7 +55,7 @@
           			</execution>
         			</executions>
                 		<configuration>
-                    		<mainClass>pi.KR.CalcMain</mainClass>
+                    		<mainClass>nalog.nak.Nalog</mainClass>
                 		</configuration>
             		</plugin>
 			<plugin>
